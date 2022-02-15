@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Blockchain and Smart-Contracts technology and integration with videogames**
 
-- 💬 My development Discord Server **https://discord.gg/uxRTwDa**
+- 💬 My development Discord Server **https://discord.gg/uxRTwDa** with **+400 customers** and **+1200 members**
 
-- 📫 How to reach me **blackdemonzdiscord@gmail.com**
+- 📫 You can reach me through my main e-mail **blackdemonzdiscord@gmail.com** for business inquiries
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_blackdemonzyt_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_blackdemonzyt_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDWXXc39HO2MZ-NUtTycdbw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cyber development" height="30" width="40" /></a>
-<a href="https://discord.gg/uxRTwDa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="uxRTwDa" height="30" width="40" /></a>
+<a href="https://twitter.com/_blackdemonzyt_" target="blank"><img align="center" src="https://cyberdevelopment.es/twittericon.svg" alt="_blackdemonzyt_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDWXXc39HO2MZ-NUtTycdbw" target="blank"><img align="center" src="https://cyberdevelopment.es/youtubeicon.svg" alt="cyber development" height="30" width="40" /></a>
+<a href="https://discord.gg/uxRTwDa" target="blank"><img align="center" src="https://cyberdevelopment.es/discordicon.svg" alt="uxRTwDa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
