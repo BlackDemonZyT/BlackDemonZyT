@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_blackdemonzyt_" target="blank"><img src="https://img.shields.io/twitter/follow/_blackdemonzyt_?logo=twitter&style=for-the-badge" alt="_blackdemonzyt_" /></a> </p>
 
-- 🔭 I’m currently working on [**Bot-Sentry**](https://github.com/BlackDemonZyT/BotSentry) and some other secret project 🤫
+- 🔭 I’m currently working on [**Bot-Sentry**](https://github.com/BlackDemonZyT/BotSentry) for **+2000 customers** and some other secret project 🤫
 
 - 🌱 I’m currently learning **Blockchain and Smart-Contracts technology and integration with videogames**
 
