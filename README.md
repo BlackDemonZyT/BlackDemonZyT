@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_blackdemonzyt_" target="blank"><img align="center" src="https://cyberdevelopment.es/twittericon.svg" alt="_blackdemonzyt_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDWXXc39HO2MZ-NUtTycdbw" target="blank"><img align="center" src="https://cyberdevelopment.es/youtubeicon.svg" alt="cyber development" height="30" width="40" /></a>
-<a href="https://discord.gg/uxRTwDa" target="blank"><img align="center" src="https://cyberdevelopment.es/discordicon.svg" alt="uxRTwDa" height="30" width="40" /></a>
+<a href="https://twitter.com/_blackdemonzyt_" target="blank"><img align="center" src="https://camo.githubusercontent.com/c58e07fb34a45fd051183258b5860608dd86ac98dd151d0522e0575966082b88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" alt="_blackdemonzyt_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDWXXc39HO2MZ-NUtTycdbw" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a20e861b6593d07cef8e8b740e64a866ba7a9916d7e00a9c50c05e93a8096b8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f796f75747562652e737667" alt="cyber development" height="30" width="40" /></a>
+<a href="https://discord.gg/uxRTwDa" target="blank"><img align="center" src="https://camo.githubusercontent.com/d2b9054acf780db7555f11e176ae9972ab37b5592dd6de068e3f826482f1bfee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f646973636f72642e737667" alt="uxRTwDa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
